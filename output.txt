@@ -1,0 +1,22 @@
+Pokemon Beedrill omab elusid suuruses 65 HP ja elaks suure(40 damage) laksu üle
+Pokemon Blastoise omab elusid suuruses 79 HP ja elaks suure(40 damage) laksu üle
+Pokemon Bulbasaur omab elusid suuruses 45 HP ja elaks suure(40 damage) laksu üle
+Pokemon Butterfree omab elusid suuruses 60 HP ja elaks suure(40 damage) laksu üle
+Pokemon Caterpie omab elusid suuruses 45 HP ja elaks suure(40 damage) laksu üle
+Pokemon Charizard omab elusid suuruses 78 HP ja elaks suure(40 damage) laksu üle
+Pokemon Fearow omab elusid suuruses 65 HP ja elaks suure(40 damage) laksu üle
+Pokemon Ivysaur omab elusid suuruses 60 HP ja elaks suure(40 damage) laksu üle
+Pokemon Kakuna omab elusid suuruses 45 HP ja elaks suure(40 damage) laksu üle
+Pokemon Metapod omab elusid suuruses 50 HP ja elaks suure(40 damage) laksu üle
+Pokemon Nidorina omab elusid suuruses 70 HP ja elaks suure(40 damage) laksu üle
+Pokemon Sandshrew omab elusid suuruses 50 HP ja elaks suure(40 damage) laksu üle
+Pokemon Squirtle omab elusid suuruses 44 HP ja elaks suure(40 damage) laksu üle
+Pokemon Venusaur omab elusid suuruses 80 HP ja elaks suure(40 damage) laksu üle
+Pokemon Wartortle omab elusid suuruses 59 HP ja elaks suure(40 damage) laksu üle
+
+Laksu ei elaks üle:
+Charmander eludega 39 HP
+Pidgey eludega 40 HP
+Pikachu eludega 35 HP
+Rattata eludega 30 HP
+Weedle eludega 40 HP
